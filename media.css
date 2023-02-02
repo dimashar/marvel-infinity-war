@@ -1,0 +1,41 @@
+@media (max-width: 900px) {
+  .film-facts {
+    flex-direction: column;
+    padding-right: 0;
+  }
+  .film-facts-right h1 {
+    font-size: 60px;
+    margin-bottom: 20px;
+  }
+  .film-facts-right {
+    font-size: 20px;
+  }
+  .film-facts-right {
+    width: 100%;
+  }
+  .film-facts-left {
+    width: 100%;
+  }
+
+  .film-facts-left h2 {
+    font-size: 25px;
+  }
+  .film-facts-list {
+    flex-direction: column;
+    padding-bottom: 50px;
+  }
+  .film-facts-list li {
+    width: 90%;
+  }
+  .actors-content-img1,
+  .actors-content-img2,
+  .actors-content-img6 {
+    height: 400px;
+  }
+  .actors-item-text {
+    height: 100px;
+  }
+  .actors-item {
+    width: 100%;
+  }
+}
